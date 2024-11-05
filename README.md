@@ -1,2 +1,2 @@
 Link for website
-https://the-heavens.netlify.app
+https://heavens-house.netlify.app
